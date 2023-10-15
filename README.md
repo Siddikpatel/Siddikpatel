@@ -2,11 +2,11 @@
 [![An image of @siddikpatel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/siddikpatel)](https://holopin.io/@siddikpatel)
 
 - 🔭 Working on my DSA skills (brb)
-- 🌱 Eying at spring and react (constellations..)
+- 🌱 Currently eying at the spring and react.js frameworks (two of the most important constellations..)
 - 👯 Looking to collaborate on.. you know, anything that's impactful
-- 🤔 I’m looking for help in.. getting a job (Jk 😅👀 ..seriously though)
+- 🤔 Also, looking for help in.. getting a job (Jk 😅👀 ..seriously though)
 - 📫 You can reach out to me via (patel.siddik369@gmail.com)
-- ⚡ You know you can fix your code with Alohomora
+- ⚡ Do you know you can fix your code with Alohomora? Can't? You might be a muggle
 
 <!--
 **Siddikpatel/Siddikpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
