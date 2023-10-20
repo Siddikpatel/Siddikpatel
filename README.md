@@ -4,7 +4,7 @@
 - 🔭 Working on my DSA skills (brb)
 - 🌱 Currently eying at the spring and react.js frameworks (two of the most important constellations..)
 - 👯 Looking to collaborate on.. you know, anything that's impactful
-- 🤔 Also, looking for help in.. getting a job (Jk 😅👀 ..seriously though)
+- 🤔 Available for job
 - 📫 You can reach out to me via (patel.siddik369@gmail.com)
 - ⚡ Do you know you can fix your code with Alohomora? Can't? You might be a muggle
 
