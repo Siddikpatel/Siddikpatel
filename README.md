@@ -7,9 +7,9 @@
 
 <p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Siddikpatel&theme=dark"  alt="Siddikpatel" height="150" width="380" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirvadhandhukia&show_icons=true&theme=react&locale=en" alt="hirvadhandhukia" /></p> -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Siddikpatel&show_icons=true&theme=react&locale=en" alt="Siddikpatel" /></p> -->
 
-<a  href="https://github.com/Siddikpatel/github-readme-activity-graph"><img  alt="Siddik's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=hirvaDhandhukia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"  /></a>
+<a  href="https://github.com/Siddikpatel/github-readme-activity-graph"><img  alt="Siddik's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=Siddikpatel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"  /></a>
 
 
 - 🔭 Working on my DSA skills (brb)
