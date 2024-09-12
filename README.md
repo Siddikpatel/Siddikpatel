@@ -9,7 +9,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirvadhandhukia&show_icons=true&theme=react&locale=en" alt="hirvadhandhukia" /></p> -->
 
-<a  href="https://github.com/hirvaDhandhukia/github-readme-activity-graph"><img  alt="Hirva's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=hirvaDhandhukia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"  /></a>
+<a  href="https://github.com/Siddikpatel/github-readme-activity-graph"><img  alt="Siddik's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=hirvaDhandhukia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"  /></a>
 
 
 - 🔭 Working on my DSA skills (brb)
