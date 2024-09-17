@@ -19,6 +19,10 @@
 - 📫 You can reach out to me via (patel.siddik369@gmail.com)
 - ⚡ Do you know you can fix your code with Alohomora? Can't? You might be a muggle
 
+### `Profile:`
+
+<p  align="left">  <img  src="https://komarev.com/ghpvc/?username=Siddikpatel&label=Profile%20views&color=dc143c&style=flat"  alt="siddikpatel"  />  </p>
+
 <!--
 **Siddikpatel/Siddikpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
