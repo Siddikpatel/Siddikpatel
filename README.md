@@ -5,8 +5,6 @@
 
 <p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddikpatel&show_icons=true&theme=dark&locale=en&layout=compact"  alt="Siddikpatel" height="150" width="300" /></p>
 
-<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Siddikpatel&theme=dark"  alt="Siddikpatel" height="150" width="380" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Siddikpatel&show_icons=true&theme=react&locale=en" alt="Siddikpatel" /></p> -->
 
 <a  href="https://github.com/Siddikpatel/github-readme-activity-graph"><img  alt="Siddik's Activity Graph"  src="https://github-readme-activity-graph.vercel.app/graph?username=Siddikpatel&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"  /></a>
